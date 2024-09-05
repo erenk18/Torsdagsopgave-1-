@@ -1,0 +1,2 @@
+# torsdags opgaver
+ variabel
